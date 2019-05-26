@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE books SYSTEM "C:\Users\lihoi\source\repos\LibraryXML\LibraryXML\Validation.DTD">
+<books>
+  <book>
+    <StokNum>1488</StokNum>
+    <ISBN>9788601013476</ISBN>
+    <Name>Процесс</Name>
+    <Authors>
+      <Author>Франц Кафка</Author>
+    </Authors>
+    <Position>
+      <ReadingRoom>Нет</ReadingRoom>
+      <Subscription>Есть</Subscription>
+      <Stock>Есть</Stock>
+    </Position>
+  </book>
+
+  <book>
+    <StokNum>1003</StokNum>
+    <ISBN>9789731432397</ISBN>
+    <Name>Сияние</Name>
+    <Authors>
+      <Author>Стивен Кинг</Author>
+    </Authors>
+    <Position>
+      <ReadingRoom>Есть</ReadingRoom>
+      <Subscription>Нет</Subscription>
+      <Stock>Есть</Stock>
+    </Position>
+  </book>
+
+  <book>
+    <StokNum>1023</StokNum>
+    <ISBN>9783641064402</ISBN>
+    <Name>11/22/63</Name>
+    <Authors>
+      <Author>Стивен Кинг</Author>
+    </Authors>
+    <Position>
+      <ReadingRoom>Нет</ReadingRoom>
+      <Subscription>Есть</Subscription>
+      <Stock>Нет</Stock>
+    </Position>
+  </book>
+
+  <book>
+    <StokNum>0228</StokNum>
+    <ISBN>9778832012321</ISBN>
+    <Name>На каникулах мне приснилась школа</Name>
+    <Authors>
+      <Author>Глеб Коптев</Author>
+      <Author>Максим Лиховец</Author>
+    </Authors>
+    <Position>
+      <ReadingRoom>Нет</ReadingRoom>
+      <Subscription>Нет</Subscription>
+      <Stock>Нет</Stock>
+    </Position>
+  </book>
+
+  <book>
+    <StokNum>1145</StokNum>
+    <ISBN>9788897572374</ISBN>
+    <Name>Анна Каренина</Name>
+    <Authors>
+      <Author>Лев Толстой</Author>
+    </Authors>
+    <Position>
+      <ReadingRoom>Есть</ReadingRoom>
+      <Subscription>Есть</Subscription>
+      <Stock>Есть</Stock>
+    </Position>
+  </book>
+
+  <book>
+    <StokNum>1995</StokNum>
+    <ISBN>9781411428423</ISBN>
+    <Name>Критика чистого разума</Name>
+    <Authors>
+      <Author>Иммануил Кант</Author>
+    </Authors>
+    <Position>
+      <ReadingRoom>Нет</ReadingRoom>
+      <Subscription>Есть</Subscription>
+      <Stock>Есть</Stock>
+    </Position>
+  </book>
+</books>

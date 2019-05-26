@@ -1,0 +1,11 @@
+﻿<!ELEMENT books (book+)>
+<!ELEMENT book (StokNum, ISBN, Name, Authors, Position)>
+<!ELEMENT StokNum (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Authors (Author+)>
+<!ELEMENT Author (#PCDATA)>
+<!ELEMENT Position (ReadingRoom, Subscription, Stock)>
+<!ELEMENT ReadingRoom (#PCDATA)>
+<!ELEMENT Subscription (#PCDATA)>
+<!ELEMENT Stock (#PCDATA)>

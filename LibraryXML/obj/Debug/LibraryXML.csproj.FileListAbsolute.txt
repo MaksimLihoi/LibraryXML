@@ -1,0 +1,7 @@
+C:\Users\lihoi\source\repos\LibraryXML\LibraryXML\bin\Debug\LibraryXML.exe.config
+C:\Users\lihoi\source\repos\LibraryXML\LibraryXML\bin\Debug\LibraryXML.exe
+C:\Users\lihoi\source\repos\LibraryXML\LibraryXML\bin\Debug\LibraryXML.pdb
+C:\Users\lihoi\source\repos\LibraryXML\LibraryXML\obj\Debug\LibraryXML.csprojAssemblyReference.cache
+C:\Users\lihoi\source\repos\LibraryXML\LibraryXML\obj\Debug\LibraryXML.csproj.CoreCompileInputs.cache
+C:\Users\lihoi\source\repos\LibraryXML\LibraryXML\obj\Debug\LibraryXML.exe
+C:\Users\lihoi\source\repos\LibraryXML\LibraryXML\obj\Debug\LibraryXML.pdb
